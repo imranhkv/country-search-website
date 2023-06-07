@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+.container{
+  width: 1200px;
+  margin: 0 auto;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.css-5ryogn-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked+.MuiSwitch-track{
+  background-color: #333 !important;
+}
+.css-5ryogn-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked{
+  color: #000 !important;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.css-dev-only-do-not-override-15rg2km.ant-collapse>.ant-collapse-item >.ant-collapse-header .ant-collapse-header-text{
+  color: initial;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.dark{
+  /* background: "#222",
+  color: "#fff",
+  transition:".3s",
+  border:"1px solid #fff" */
+  background: #222;
+  color: #fff;
+  border: 1px solid #fff;
+}
+.dark span{
+  color: #fff !important;
+}

@@ -1,0 +1,56 @@
+.accordion{
+    height: 154vh;
+}
+.title-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 0;
+}
+.return-link{
+    text-align: left;
+    margin: 15px 0;
+
+}
+.return-link a{
+    color: #1677ff;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.title-content-name h2{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.css-dev-only-do-not-override-15rg2km.ant-modal .ant-modal-body{
+    margin-top: 50px;
+}
+.links h2{
+    font-weight: 600;
+}
+.links a{
+    display: block ;
+    margin: 20px 0;
+}
+.css-dev-only-do-not-override-15rg2km.ant-collapse .ant-collapse-content>.ant-collapse-content-box img{
+    width: 230px;
+    height: 150px;
+    object-fit: contain;
+}
+.css-dev-only-do-not-override-15rg2km.ant-collapse>.ant-collapse-item >.ant-collapse-header .ant-collapse-header-text {
+    color: #1677ff;
+    font-weight: 600;
+    text-align: start;
+}
+.colaps{
+    margin: 10px 0;
+}
+.css-dev-only-do-not-override-15rg2km.ant-collapse .ant-collapse-content>.ant-collapse-content-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.css-dev-only-do-not-override-15rg2km.ant-collapse .ant-collapse-content>.ant-collapse-content-box .borders-items {
+    margin: 0 10px;
+}
